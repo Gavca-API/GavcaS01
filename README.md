@@ -55,11 +55,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Função | Nome | LinkedIn & GitHub |
 |--------|------|------------------|
 | Product Owner | Luiz Felipe | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-c-084620123/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipemassa03) |
-(https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-ivo-20934a385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ivodfsi-collab/INFO_LOG) |
+| Scrum Master | David Ivo | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-ivo-20934a385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ivodfsi-collab/INFO_LOG) |
 | Team Member | Ana Beatriz | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ana-beatriz-92b7b0328) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anabeatrizp1) |
 | Team Member | Gabrielle Silva | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/gabrielle-silva-21752917b) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabissilva172-spec) |
 | Team Member | Isadora Ferreira | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if) |
 | Team Member | Pedro Henrique | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/pedro-henrique-0b1abb32b) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anabeatrizp1) |
+
 
 
 
