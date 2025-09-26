@@ -1,8 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) - Gavca
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -22,11 +20,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+
+*Desenvolver uma plataforma de Business Intelligence (BI) para visualização de informações sobre o comércio exterior.
+
+*Fornecer análises do desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo.
+
+*Utilizar dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) como base para os indicadores.
+
+*Apoiar tomadores de decisão na identificação de municípios em ascensão, estagnação ou declínio no mercado internacional.
 
 
 ## Tecnologias Utilizadas
@@ -34,9 +35,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
 * Python (Colab)
-* Mysql
+
 
 
 # Equipe
@@ -60,8 +60,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 29/09/2025 | concluído | [MVP](MVP/sp1.md)  |
+
+| 02                | 20/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+
 
