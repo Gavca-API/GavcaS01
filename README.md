@@ -55,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Função | Nome | LinkedIn & GitHub |
 |--------|------|------------------|
 | Product Owner | Luiz Felipe | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-c-084620123/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipemassa03) |
-| Scrum Master | David Ivo | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if) |
+(https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-ivo-20934a385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ivodfsi-collab/INFO_LOG) |
 | Team Member | Ana Beatriz | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ana-beatriz-92b7b0328) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anabeatrizp1) |
 | Team Member | Gabrielle Silva | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/gabrielle-silva-21752917b) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabissilva172-spec) |
 | Team Member | Isadora Ferreira | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if) |
@@ -76,7 +76,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | 20/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
-
 
 
 
