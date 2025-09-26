@@ -38,14 +38,17 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 
 # Product Backlog
+| Rank | Prioridade | User Story                                                                                                                                      | Estimativa | Sprint   | Observações          |
+| ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | -------------------- |
+| 1    | Alta       | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado | 12 horas   | Sprint 1 | Acesso ao Comex Stat |
+| 2    | Alta       | Como gestor de dados, quero tratar os dados de importação e exportação do estado de SP (2023-2025) para análise estadual                        | 12 horas   | Sprint 1 | Python               |
+| 3    | Média      | Como analista logístico, quero agrupar todos os dados tratados em um único arquivo, para integração com o PowerBI                               | 8 horas    | Sprint 1 | PowerBI              |
+| 4    | Alta       | Como analista logístico, quero criar um dashboard estadual comparativo, mostrando a evolução da balança comercial dos principais estados        | 8 horas    | Sprint 1 | PowerBI              |
+| 5    | Alta       | Como analista logístico, quero identificar os principais produtos exportados e importados pelos estados brasileiros                             | 8 horas    | Sprint 1 | PowerBI              |
+| 6    | Alta       | Como analista logístico, quero aplicar filtros por estado, ano e produto para facilitar análises específicas                                    | 8 horas    | Sprint 1 | Filtros PowerBI      |
+| 7    | Média      | Produzir a apresentação dos resultados da Sprint 1 e validar com o cliente                                                                      | 4 horas    | Sprint 1 | Power Point          |
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
 
 
 # Equipe
@@ -73,6 +76,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | 20/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+
+
 
 
 
