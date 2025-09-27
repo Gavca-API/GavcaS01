@@ -76,9 +76,7 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+-Na Sprint 2, espera-se avançar na análise e visualização dos dados de importação e exportação dos municípios de SP, gerando insights estratégicos que apoiem a tomada de decisão e permitam identificar tendências, oportunidades de expansão e padrões sazonais, além de preparar apresentações que consolidem os resultados para validação com o cliente. 
 
 ---
 
