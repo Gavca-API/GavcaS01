@@ -42,10 +42,10 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 | 1 | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado.         | Alta       | 5 pontos   |
 | 2 | Como gestor de dados, quero tratar os dados de importação e exportação do estado de SP (2023-2025) para análise estadual.         | Alta       | 12 horas   |
 | 3 | Como analista logistico, quero agrupar todos os dados tratados em um único arquivo, para integração com o PowerBI.         | Média       | 8 horas   |
-| 4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| 5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| 6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| 7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 4 | Como analista logístico, quero criar um dashboard estadual comparativo, mostrando a evolução da balança comercial dos principais estados.         | Alta      | 8 horas   |
+| 5 | Como analista logístico, quero identificar os principais produtos exportados e importados pelos estados brasileiros.         | Alta       | 8 horas   |
+| 6 | Como analista logístico, quero aplicar filtros por estado, ano e produto para facilitar análises específicas.         | Alta      | 8 horas   |
+| 7 | Produzir a apresentação dos resultados da Sprint 1 e validar com o cliente.         | Média      | 8 horas   |
 ---
 
 ## 📅 Sprint(s) Relacionadas
