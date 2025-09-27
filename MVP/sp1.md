@@ -68,8 +68,9 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ---
 
 ## 📈 Métricas de Validação
--  [![SHEETS])](https://docs.google.com/spreadsheets/d/1WUo_sl7kYJN6l0RgdBz586dTLaYcXSOx_AJ3Dgcln9I/edit?gid=0#gid=0)     |
--  
+-  [[Municipio])](https://colab.research.google.com/drive/1XDI8v5uX55yK8O3oTFB8Mup4zPGOKW4V?usp=sharing)     |
+-  [[Países])](https://colab.research.google.com/drive/1Lji2Zxj4JtwFsLt_S_LWUYdTJCWILu4h?usp=sharing)     |
+-  -  [[Dashboard])]([https://colab.research.google.com/drive/1Lji2Zxj4JtwFsLt_S_LWUYdTJCWILu4h?usp=sharing](https://fatecspgov-my.sharepoint.com/:u:/r/personal/david_ivo_fatec_sp_gov_br/Documents/projeto%20pi.pbix?csf=1&web=1&e=nK7ODc))     |
 -   
 
 ---
