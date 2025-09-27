@@ -40,8 +40,8 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 | ID  | User Story                                                                | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | 1 | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado.         | Alta       | 5 pontos   |
-| 2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-| 3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| 2 | Como gestor de dados, quero tratar os dados de importação e exportação do estado de SP (2023-2025) para análise estadual.         | Alta       | 12 horas   |
+| 3 | Como analista logistico, quero agrupar todos os dados tratados em um único arquivo, para integração com o PowerBI.         | Média       | 8 horas   |
 | 4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 | 5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
 | 6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
