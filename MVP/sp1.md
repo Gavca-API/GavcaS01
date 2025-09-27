@@ -3,22 +3,36 @@
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
-- Qual hipótese será validada?  
+Organizamos e centralizamos os dados de importação e exportação, com foco em São Paulo, para facilitar análises municipais e estaduais.
+- Qual hipótese será validada?
+É possível organizar e consolidar os dados de importação e exportação de São Paulo e demais estados para permitir análises precisas.
 - Qual valor será entregue ao usuário final?  
+Dados de importação e exportação organizados e consolidados, facilitando análises e decisões estratégicas.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
+> Nesta etapa será desenvolvido um processo de organização e consolidação dos dados de importação e exportação (2023–2025), com foco no estado de São Paulo, tornando as informações prontas para análise e visualização em dashboards.  
+- Funcionalidades principais incluídas 
+Download e consolidação dos dados por estado e município;
+Tratamento e padronização dos dados para facilitar análise;
+Integração em um único arquivo pronto para Power BI;
+Criação de visualizações básicas comparativas por estado e produto;
+Aplicação de filtros por estado, ano e produto.
 - Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
+A análise detalhada por município fora de SP pode ser limitada;
+Dashboards ainda terão visualizações básicas, sem funcionalidades avançadas.
+- Escopo reduzido 
+Foco principal no estado de São Paulo;
+Consolidação e tratamento apenas do essencial para validar a ideia;
+Dashboard inicial comparativo, sem relatórios complexos.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Carlos Bastos/José Jaétis:** Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista.
+Necessidades e dores atendidas: Precisam que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam alcançados.
+- **Marcus Nascimento:** Descrição: Cliente, interessado no desempenho do comércio exterior.
+Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e exigem esforço manual para análise.
 
 ---
 
@@ -63,3 +77,4 @@
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
