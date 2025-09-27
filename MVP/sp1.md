@@ -39,9 +39,13 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
-
+| 1 | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado.         | Alta       | 5 pontos   |
+| 2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 3 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| 4 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 5 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| 6 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 7 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 ---
 
 ## 📅 Sprint(s) Relacionadas
