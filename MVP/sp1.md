@@ -68,9 +68,9 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+-  [![SHEETS])](https://docs.google.com/spreadsheets/d/1WUo_sl7kYJN6l0RgdBz586dTLaYcXSOx_AJ3Dgcln9I/edit?gid=0#gid=0)     |
+-  
+-   
 
 ---
 
