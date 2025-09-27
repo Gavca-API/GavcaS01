@@ -39,7 +39,7 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 1 | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado.         | Alta       | 5 pontos   |
+| 1 | Como gestor de dados, quero baixar os dados de importação e exportação do Brasil (2023–2025) para consolidar informações por município e estado.         | Alta       | 12 horas   |
 | 2 | Como gestor de dados, quero tratar os dados de importação e exportação do estado de SP (2023-2025) para análise estadual.         | Alta       | 12 horas   |
 | 3 | Como analista logistico, quero agrupar todos os dados tratados em um único arquivo, para integração com o PowerBI.         | Média       | 8 horas   |
 | 4 | Como analista logístico, quero criar um dashboard estadual comparativo, mostrando a evolução da balança comercial dos principais estados.         | Alta      | 8 horas   |
