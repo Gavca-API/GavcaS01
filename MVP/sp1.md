@@ -51,9 +51,13 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| 01     | Acesso ao Comex Stat                       | Concluído|
+| 02     | Python                          | Concluído |
+| 03     | PowerBI                        | Concluído|
+| 04     | PowerBI                          | Concluído |
+| 05     | PowerBI                        | Concluído|
+| 06     | Filtros PowerBI                           | Em andamento |
+| 07     | Power Point                         | Em andamento |
 ---
 
 ## 📊 Critérios de Aceitação
