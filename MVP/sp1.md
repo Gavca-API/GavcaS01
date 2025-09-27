@@ -61,9 +61,9 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize informações sobre o desempenho de municípios e estados no comércio exterior. 
+- O sistema deve registrar acessos e filtros aplicados pelo usuário para análise. 
+- Métricas coletadas: tempo de resposta das consultas, taxa de uso das visualizações, número de acessos por município/estado.  
 
 ---
 
