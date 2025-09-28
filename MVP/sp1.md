@@ -81,7 +81,8 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 ---
 
 ## 📂 Anexos / Evidências
-- ![Python](https://github.com/user-attachments/assets/8f9485a8-c229-474e-9c1e-af4f07e5bf3a)
+- ![Python](https://github.com/user-attachments/assets/b5ea663e-46f5-4988-a566-dcdfac536cc2)
+
  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
