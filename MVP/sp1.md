@@ -84,6 +84,9 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 - ![Python](https://github.com/user-attachments/assets/b5ea663e-46f5-4988-a566-dcdfac536cc2)
 
  
-- Fluxos ou protótipos  
+- ![PowerBI-Importação](https://github.com/user-attachments/assets/29eb2bfd-af10-4bb2-9169-fcd1e98e56af)
+-![PowerBI-Exportação](https://github.com/user-attachments/assets/57bdaa39-dafb-47b8-a2f6-9d26ed1ee283)
+
+
 - Vídeo (MVP)  
 
