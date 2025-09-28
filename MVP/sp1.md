@@ -88,5 +88,5 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 -![PowerBI-Exportação](https://github.com/user-attachments/assets/57bdaa39-dafb-47b8-a2f6-9d26ed1ee283)
 
 
-- [![Video dashboard](https://youtu.be/jsc37NY4HSE?si=qO9Lg1FsaisttmX0)
+- [![Assista ao Demo](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/jsc37NY4HSE?si=qO9Lg1FsaisttmX0)
 
