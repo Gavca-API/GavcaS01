@@ -66,7 +66,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint     | Status   | Histórico |
 |-------------------|------------|----------
-| 01    | concluído | [MVP](MVP/sp1.md)  |
+| 01    | concluído | ([Relatório Sprint 1](https://github.com/user-attachments/files/22608034/Relatorio.Projeto.Integrador.-.Sprint1.pdf)
+)  |
 | 02    | a fazer  | [MVP](MVP/sp2.md)  |
 | 03    | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | a fazer  | [MVP](#)  |
