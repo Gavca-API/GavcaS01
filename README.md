@@ -61,14 +61,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Team Member | Isadora Ferreira | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-ferreira-34603a332) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Isadora01if) |
 | Team Member | Pedro Henrique | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/pedro-henrique-0b1abb32b) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anabeatrizp1) |
 
-
-
-
-
-
-
-
   
+# Relatório das Sprints
+
+| Sprint             | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                 | concluído | [Relatório Projeto Integrador - Sprint1.pdf](https://github.com/user-attachments/files/22607994/Relatorio.Projeto.Integrador.-.Sprint1.pdf)
+  |
+| 02                 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | a fazer  | [MVP](#)  |
+
+
+
+
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
@@ -77,7 +84,3 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | 20/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
-
-
-
-
