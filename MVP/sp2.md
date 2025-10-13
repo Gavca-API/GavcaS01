@@ -1,32 +1,41 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Gavca
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
+- Qual problema resolve?
+Organizamos e tratamos os dados de importação e exportação dos municípios e focando em SP, criando dashboards e relatórios interativos para facilitar análises comparativas e apoiar decisões estratégicas.
 - Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Organizando e visualizando os dados de comércio exterior de SP, é possível comparar municípios e orientar decisões estratégicas.
+- Qual valor será entregue ao usuário final? 
+Dashboards e relatórios interativos com dados de SP, permitindo análises rápidas e decisões.
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
+- Funcionalidades principais incluídas
+Tratamento e consolidação dos dados de importação e exportação dos municípios de SP (2023–2025), com dashboards e arquivos prontos para Power BI, incluindo filtros interativos e métricas de ranking, sazonalidade e tendências.  
+- Limitações conhecidas
+Uma análise detalhada por município pode ser limitada; Dashboards ainda terão visualizações básicas, sem funcionalidades avançadas.
 - Escopo reduzido (somente o essencial para validar a ideia)  
+Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com métricas básicas para validar a ideia.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+**Carlos Bastos/José Jaétis:** Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+**Marcus Nascimento:** Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise. 
+ 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista de comércio exterior, quero tratar os dados de importação e exportação dos municípios de SP (2023-2025) para análise comparativa.         | Alta       | 12 horas   |
+| US2 | Como tomador de decisão pública, quero visualizar um ranking dos municípios com maior valor agregado em importação e exportação para orientar políticas regionais.        | Alta      | 12 horas   |
+| US3 | Como analista logístico, quero identificar principais mercados internacionais atendidos pelos municípios de SP para avaliar oportunidades de expansão.         | Alta       | 8 horas   |
+| US4 | Como analista do comércio exterior, quero analisar a sazonalidade nas importações e 
+exportações municipais, para identificar períodos de alta e baixa.       | Média      | 8 horas  |
 
 ---
 
