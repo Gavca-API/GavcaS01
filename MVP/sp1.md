@@ -56,8 +56,8 @@ Necessidades e dores atendidas: Precisa de acesso a dados organizados, consolida
 | 03     | PowerBI                        | Concluído|
 | 04     | PowerBI                          | Concluído |
 | 05     | PowerBI                        | Concluído|
-| 06     | Filtros PowerBI                           | Em andamento |
-| 07     | Power Point                         | Em andamento |
+| 06     | Filtros PowerBI                           | Concluído |
+| 07     | Power Point                         | Concluído |
 ---
 
 ## 📊 Critérios de Aceitação
