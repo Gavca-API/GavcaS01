@@ -36,6 +36,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 | 3 | Como analista logístico, quero identificar principais mercados internacionais atendidos pelos municípios de SP para avaliar oportunidades de expansão.         | Alta       | 8 horas   |
 | 4 | Como analista do comércio exterior, quero analisar a sazonalidade nas importações e exportações municipais, para identificar períodos de alta e baixa.      | Média      | 8 horas  |
 | 5 | Como analista de comércio exterior, quero dashboard interativos no PowerBI que mostrem municípios em ascensão, estagnação e declínio.      | Alta      | 8 horas  |
+| 6 | Produzir a apresentação dos resultados da Sprint 2 e validar com o cliente.      | Alta      | 8 horas  |
 ---
 
 ## 📅 Sprint(s) Relacionadas
