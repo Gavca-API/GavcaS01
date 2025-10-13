@@ -47,7 +47,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 | 03     | Python e PowerBI                           | Concluído |
 | 04     | PowerBI                        | Concluído|
 | 05     | PowerBI                           | Concluído |
-| 05     | Power Point                         | Em andamento |
+| 06    | Power Point                         | Em andamento |
 
 ---
 
