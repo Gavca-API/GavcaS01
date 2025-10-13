@@ -52,10 +52,9 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- O MVP deve permitir que o usuário visualize informações sobre o desempenho de municípios e estados no comércio exterior.
+-O sistema deve registrar acessos e filtros aplicados pelo usuário para análise.
+-Métricas coletadas: tempo de resposta das consultas, taxas de uso das visualizações, número de acessos por município/estado.
 ---
 
 ## 📈 Métricas de Validação
@@ -66,9 +65,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+Na Sprint 3, espera-se aprimorar a usabilidade dos dashboards e expandir as funcionalidades desenvolvidas anteriormente, incluindo novas análises por país parceiro, integração de dados nacionais e internacionais, e visualizações mais completas no Power BI. Além disso, serão feitos ajustes de design e interação para tornar as análises mais intuitivas e estratégicas.  
 
 ---
 
