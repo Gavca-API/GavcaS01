@@ -42,8 +42,12 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Comex Stat e Python                        | Concluído|
+| 02     | Python e PowerBI                           | Concluído |
+| 03     | Python e PowerBI                           | Concluído |
+| 04     | PowerBI                        | Concluído|
+| 05     | PowerBI                           | Concluído |
+| 05     | Power Point                         | Em andamento |
 
 ---
 
