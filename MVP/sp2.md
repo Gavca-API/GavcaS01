@@ -66,7 +66,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 ---
 
 ## 🚀 Próximos Passos
-Na Sprint 3, espera-se aprimorar a usabilidade dos dashboards e expandir as funcionalidades desenvolvidas anteriormente, incluindo novas análises por país parceiro, integração de dados nacionais e internacionais, e visualizações mais completas no Power BI. Além disso, serão feitos ajustes de design e interação para tornar as análises mais intuitivas e estratégicas.  
+Na Sprint 3, espera-se aprimorar a usabilidade dos dashboards e expandir as funcionalidades desenvolvidas anteriormente, incluindo novas análises por país parceiro, integração de dados nacionais e internacionais, e visualizações mais completas no Power BI. 
 
 ---
 
