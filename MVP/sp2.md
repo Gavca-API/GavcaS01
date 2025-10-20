@@ -59,9 +59,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 ---
 
 ## 📈 Métricas de Validação
-- O MVP deve permitir que o usuário visualize informações sobre o desempenho de municípios e estados no comércio exterior.
-- O sistema deve registrar acessos e filtros aplicados pelo usuário para análise.
-- Métricas coletadas: tempo de resposta das consultas, taxa de uso das visualizações, número de acessos por município/estado.
+-O MVP foi testado pelos integrantes Ana e Isadora, com usuários acessando o dashboard em computadores diferentes. Todos aplicaram os mesmos filtros e obtiveram os mesmos resultados, confirmando a consistência das informações exibidas. Usamos a seguinte user story para a validação: Como tomador de decisão pública, quero visualizar um ranking dos municípios com maior valor agregado em importação e exportação para orientar políticas regionais.
 
 ---
 
