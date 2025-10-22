@@ -60,6 +60,7 @@ Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com m
 
 ## 📈 Métricas de Validação
 -O MVP foi testado pelos integrantes Ana e Isadora, com usuários acessando o dashboard em computadores diferentes. Todos aplicaram os mesmos filtros e obtiveram os mesmos resultados, confirmando a consistência das informações exibidas. Usamos a seguinte user story para a validação: Como tomador de decisão pública, quero visualizar um ranking dos municípios com maior valor agregado em importação e exportação para orientar políticas regionais.
+![PowerBI](https://github.com/user-attachments/assets/f1ba46c1-f1e7-4c8b-addb-a61f2e488516)
 
 ---
 
