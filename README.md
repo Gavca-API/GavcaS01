@@ -58,7 +58,7 @@ Apoiar tomadores de decisão na identificação de municípios em ascensão, est
 | 16    | Media    | Como analista logístico, quero analisar os principais meios de transporte utilizados nas importações e exportações por país parceiro (rodoviário, ferroviário, marítimo e aéreo), para otimizar a logística | 12 horas    | Sprint 3 | Python e PowerBI|
 | 17    | Alta      | Como tomador de decisão pública, quero visualizar dashboards que mostrem as tendências do mercado, para ter uma visão do comércio exterior | 10 horas    | Sprint 3 | PowerBI |
 | 18    | Alta       | Como analista de dados, quero analisar o potencial de crescimento de países parceiros em exportação dos últimos anos (2023–2025), para identificar tendências de crescimento e oportunidades estratégicas | 10 horas    | Sprint 3 | PowerBI |
-| 19    | Media       | Produzir a apresentação dos resultados da Sprint 2 e validar com o cliente                                    | 6 horas    | Sprint 3 | Power Point      |
+| 19    | Media       | Produzir a apresentação dos resultados da Sprint 3 e validar com o cliente                                    | 6 horas    | Sprint 3 | Power Point      |
 
 
 
