@@ -54,8 +54,11 @@ Dashboards e relatórios interativos com dados de SP, permitindo análises rápi
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize informações sobre o desempenho de municípios e estados no comércio exterior.
+
 -O sistema deve registrar acessos e filtros aplicados pelo usuário para análise.
+
 -Métricas coletadas: tempo de resposta das consultas, taxas de uso das visualizações, número de acessos por município/estado.
+
 ---
 
 ## 📈 Métricas de Validação
