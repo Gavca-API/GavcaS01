@@ -21,13 +21,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
-*Desenvolver uma plataforma de Business Intelligence (BI) para visualização de informações sobre o comércio exterior.
+Desenvolver uma plataforma de Business Intelligence (BI) para visualização de informações sobre o comércio exterior.
 
-*Fornecer análises do desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo.
+Fornecer análises do desempenho dos Estados Brasileiros e dos municípios do Estado de São Paulo.
 
-*Utilizar dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) como base para os indicadores.
+Utilizar dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) como base para os indicadores.
 
-*Apoiar tomadores de decisão na identificação de municípios em ascensão, estagnação ou declínio no mercado internacional.
+Apoiar tomadores de decisão na identificação de municípios em ascensão, estagnação ou declínio no mercado internacional.
 
 
 ## Tecnologias Utilizadas
