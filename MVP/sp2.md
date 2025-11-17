@@ -16,12 +16,9 @@ Dashboards e relatórios interativos com dados de SP, permitindo análises rápi
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas
-Tratamento e consolidação dos dados de importação e exportação dos municípios de SP (2023–2025), com dashboards e arquivos prontos para Power BI, incluindo filtros interativos e métricas de ranking, sazonalidade e tendências.  
-- Limitações conhecidas
-Uma análise detalhada por município pode ser limitada; Dashboards ainda terão visualizações básicas, sem funcionalidades avançadas.
-- Escopo reduzido (somente o essencial para validar a ideia)  
-Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com métricas básicas para validar a ideia.
+- Funcionalidades principais incluídas: Tratamento e consolidação dos dados de importação e exportação dos municípios de SP (2023–2025), com dashboards e arquivos prontos para Power BI, incluindo filtros interativos e métricas de ranking, sazonalidade e tendências.  
+- Limitações conhecidas: Uma análise detalhada por município pode ser limitada; Dashboards ainda terão visualizações básicas, sem funcionalidades avançadas.
+- Escopo reduzido (somente o essencial para validar a ideia): Tratamento e consolidação dos dados essenciais de SP e dashboard inicial com métricas básicas para validar a ideia.
 
 ---
 
