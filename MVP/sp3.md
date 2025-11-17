@@ -66,10 +66,7 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Na Sprint 3, concluímos o aprimoramento dos dashboards, ajustando usabilidade e consolidando as análises de modais, países parceiros e tendências de 2023 a 2025. Encerramos o projeto com uma visão clara e validada do comércio exterior, entregando os resultados finais para apoiar decisões estratégicas.
 ---
 
 ## 📂 Anexos / Evidências
