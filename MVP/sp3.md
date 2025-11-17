@@ -56,7 +56,7 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 
 - O sistema deve registrar corretamente a aplicação de filtros e a atualização das visualizações no dashboard.
 
-- Métricas coletadas: consistência dos resultados entre usuários, tempo de carregamento dos gráficos e frequência de uso dos filtros. 
+- Métricas coletadas: consistência dos resultados entre usuários, tempo de carregamento dos gráficos e uso dos filtros. 
 
 ---
 
