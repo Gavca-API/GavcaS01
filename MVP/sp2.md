@@ -76,4 +76,4 @@ Na Sprint 3, espera-se aprimorar a usabilidade dos dashboards e expandir as func
 - ![PowerBI-Importação](https://github.com/user-attachments/assets/3e56bc93-7c11-4565-8749-4c19f0f80132)
 - ![PowerBI-Exportação](https://github.com/user-attachments/assets/1986cb8f-4905-4d98-8c83-ad37af4751f3)
 - ![Python](https://github.com/user-attachments/assets/e0f468fb-dcf6-438c-ac42-edb6fddf5c5a)
-- [![Assista ao Demo](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/9-AAROXs498?si=XwyUzDZDRHT_E4dr)
+- [![Assista ao Video](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/9-AAROXs498?si=XwyUzDZDRHT_E4dr)
