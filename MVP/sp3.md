@@ -42,8 +42,12 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Comex Stat e Python                        | Concluído|
+| 02     | PowerBI                           | Concluído |
+| 03     | PowerBI                           | Concluído |
+| 04     | PowerBI                        | Concluído|
+| 05     | PowerBI                           | Concluído |
+| 06    | Power Point                         | Concluído |
 
 ---
 
