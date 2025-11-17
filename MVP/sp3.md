@@ -59,9 +59,7 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+O MVP foi testado pelos integrantes Isadora e David, que acessaram o dashboard em computadores distintos. Ambos aplicaram os mesmos filtros e obtiveram resultados idênticos, comprovando a estabilidade e a confiabilidade das visualizações. A validação foi realizada utilizando a seguinte história de usuário: "Como tomador de decisão pública, quero visualizar dashboards que mostrem as tendências do mercado, para ter uma visão do comércio exterior"
 
 ---
 
