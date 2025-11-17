@@ -3,8 +3,11 @@
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
+A Sprint 3 resolve o problema da falta de visão integrada e analítica sobre o comércio exterior, dificultando decisões estratégicas e logísticas.
 - Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Os dados consolidados de 2023–2025 revelam padrões que permitem identificar o modal mais eficiente e os países parceiros com maior potencial de crescimento.
+- Qual valor será entregue ao usuário final? 
+Visão clara e consolidada do comércio exterior, permitindo identificar modais mais eficientes, tendências de mercado e oportunidades estratégicas com apoio de dashboards.
 
 ---
 
