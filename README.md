@@ -53,11 +53,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 11    | Media       | Como analista do comércio exterior, quero analisar a sazonalidade nas importações e exportações municipais, para identificar períodos de alta e baixa  | 10 horas    | Sprint 2 | PowerBI              |
 | 12    | Alta       | Como analista de comércio exterior, quero dashboard interativos no PowerBI que mostrem municípios em ascensão, estagnação e declínio              | 6 horas    | Sprint 2 | PowerBI              |
 | 13    | Alta       | Produzir a apresentação dos resultados da Sprint 2 e validar com o cliente                                    | 4 horas    | Sprint 2 | Power Point      |
-| 14    | Alta       | Como analista de comércio exterior, quero tratar os dados de importação e exportação dos municípios de SP (2023-2025) para análise comparativa | 12 horas   | Sprint 3 | Acesso ao Comex Stat e Python |
-| 15    | Media       | Como tomador de decisão pública, quero visualizar um ranking dos municípios com maior valor agregado em importação e exportação para orientar políticas regionais   | 10 horas   | Sprint 3 | PowerBI  |
+| 14    | Alta       | Como analista, quero consolidar dados de importação e exportação (2023–2025), para ter uma visão geral do comércio exterior | 12 horas   | Sprint 3 | Acesso ao Comex Stat e Python |
+| 15    | Media       | Como analista logístico, quero realizar uma análise comparativa entre o volume exportado e os modais utilizados, para identificar o modal mais eficiente e os custos| 10 horas   | Sprint 3 | PowerBI  |
 | 16    | Media    | Como analista logístico, quero identificar principais mercados internacionais atendidos pelos municípios de SP para avaliar oportunidades de expansão | 12 horas    | Sprint 3 | Python e PowerBI     |
 | 17    | Alta      | Como analista do comércio exterior, quero analisar a sazonalidade nas importações e exportações municipais, para identificar períodos de alta e baixa  | 10 horas    | Sprint 3 | PowerBI              |
-| 18    | Alta       | Como analista de comércio exterior, quero dashboard interativos no PowerBI que mostrem municípios em ascensão, estagnação e declínio              | 10 horas    | Sprint 3 | PowerBI              |
+| 18    | Alta       | Como analista logístico, quero analisar os principais meios de transporte utilizados nas importações e exportações por país parceiro (rodoviário, ferroviário, marítimo e aéreo), para otimizar a logística e reduzir custos | 10 horas    | Sprint 3 | PowerBI         |
 | 19    | Media       | Produzir a apresentação dos resultados da Sprint 2 e validar com o cliente                                    | 6 horas    | Sprint 3 | Power Point      |
 
 
