@@ -13,15 +13,17 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Funcionalidades principais incluídas: Consolidação dos dados, análise de volume por modal, identificação dos modais predominantes por país parceiro e criação de dashboards com tendências e rankings de crescimento.  
+- Limitações conhecidas: Os custos dos modais são apenas estimados, alguns países possuem dados incompletos e os dashboards possuem recursos básicos, apenas análise histórica.  
+- Escopo reduzido (somente o essencial para validar a ideia): Tratamento e consolidação dos dados focando em países e modais mais utilizados e dashboard inicial com métricas básicas para validar a ideia.
+  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+-**Carlos Bastos/José Jaétis:** Descrição: Cliente e avaliadores do projeto, acompanhando o desenvolvimento da plataforma de BI para o comércio exterior paulista. Necessidades e tarefas atendidas: É necessário que os alunos entreguem uma solução bem documentada, funcional e aderente aos requisitos ágeis, garantindo que o aprendizado e a aplicação prática de competências logísticas e de análise de dados sejam oferecidos.
+
+-**Marcus Nascimento:** Descrição: Cliente, interessado no desempenho do comércio exterior. Necessidades e tarefas atendidas: Precisa de acesso a dados organizados, consolidados e visualmente compreensíveis para apoiar decisões estratégicas e logísticas, atualmente os dados estão dispersos e desativados manual de esforço para análise. 
 
 ---
 
