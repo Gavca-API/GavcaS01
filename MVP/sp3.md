@@ -70,6 +70,6 @@ O MVP foi testado pelos integrantes Isadora e David, que acessaram o dashboard e
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+-![PowerBI-Exportação](https://github.com/user-attachments/assets/530db5a2-3444-4d8e-aff1-f3319ca5c479)
+
+ -[![Assista ao Video](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/BJDFCeqfNvA?si=6sIpjrRtRf32T4Og)
