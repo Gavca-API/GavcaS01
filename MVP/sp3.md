@@ -61,7 +61,9 @@ Visão clara e consolidada do comércio exterior, permitindo identificar modais 
 ---
 
 ## 📈 Métricas de Validação
-O MVP foi testado pelos integrantes Isadora e David, que acessaram o dashboard em computadores distintos. Ambos aplicaram os mesmos filtros e obtiveram resultados idênticos, comprovando a estabilidade e a confiabilidade das visualizações. A validação foi realizada utilizando a seguinte história de usuário: "Como tomador de decisão pública, quero visualizar dashboards que mostrem as tendências do mercado, para ter uma visão do comércio exterior"
+O MVP foi testado pelos integrantes Isadora e David, que acessaram o dashboard em computadores distintos. Ambos aplicaram os mesmos filtros e obtiveram resultados idênticos, comprovando a estabilidade e a confiabilidade das visualizações.
+![PowerBI-Exportação](https://github.com/user-attachments/assets/530db5a2-3444-4d8e-aff1-f3319ca5c479)
+
 
 ---
 
@@ -70,6 +72,6 @@ O MVP foi testado pelos integrantes Isadora e David, que acessaram o dashboard e
 ---
 
 ## 📂 Anexos / Evidências
--![PowerBI-Exportação](https://github.com/user-attachments/assets/530db5a2-3444-4d8e-aff1-f3319ca5c479)
+![PowerBI-Exportação](https://github.com/user-attachments/assets/530db5a2-3444-4d8e-aff1-f3319ca5c479)
 
- -[![Assista ao Video](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/BJDFCeqfNvA?si=6sIpjrRtRf32T4Og)
+[![Assista ao Video](https://img.youtube.com/vi/jsc37NY4HSE/maxresdefault.jpg)](https://youtu.be/BJDFCeqfNvA?si=6sIpjrRtRf32T4Og)
