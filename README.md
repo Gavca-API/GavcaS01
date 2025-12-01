@@ -99,7 +99,7 @@ Apoiar tomadores de decisão na identificação de municípios em ascensão, est
 | 01                | 29/09/2025 | concluído | [MVP](MVP/sp1.md)  |
 | 02                | 20/10/2025 | concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 28/11/2025 | concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](MVP/feira.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 
 
 
