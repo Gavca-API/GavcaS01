@@ -82,7 +82,7 @@ Apoiar tomadores de decisão na identificação de municípios em ascensão, est
 | 01    | concluído | [Relatório Sprint 1](https://github.com/user-attachments/files/22608034/Relatorio.Projeto.Integrador.-.Sprint1.pdf)|
 | 02    | concluído  | [Relatorio Sprint 2](https://github.com/user-attachments/files/22980272/Relatorio.Logistica.Empresarial.2.pdf)|
 | 03    | concluído  | [Relatorio Sprint 3](https://github.com/user-attachments/files/23728199/Sprint.3.API.GAVCA.pdf)|
-| Feira de Soluções | a fazer  | [Relatorio Final](https://github.com/user-attachments/files/23888780/Relatorio.Final.pdf) |
+| Feira de Soluções | concluído  | [Relatorio Final](https://github.com/user-attachments/files/23888780/Relatorio.Final.pdf) |
 
 
 
@@ -99,8 +99,6 @@ Apoiar tomadores de decisão na identificação de municípios em ascensão, est
 | 01                | 29/09/2025 | concluído | [MVP](MVP/sp1.md)  |
 | 02                | 20/10/2025 | concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 28/11/2025 | concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
-
 
 
 
