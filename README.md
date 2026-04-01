@@ -39,7 +39,7 @@ Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas
 
 ## Tecnologias Utilizadas
 
-* Jira Software
+* Trello
 * Power BI
 * Microsoft Excel
 * Python (Colab)
