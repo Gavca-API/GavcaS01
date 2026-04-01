@@ -52,12 +52,13 @@ Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Como analista de dados, quero identificar as regiões com maior procura pelo uso de cargas perigosas, para que seja possível compreender onde há maior demanda e direcionar melhor os recursos e estratégias logísticas                                                                                                                                                        | 5          | 1      |
+| 2    | Alta       | Como analista de dados, quero identificar quais são as regiões que apresentam uma evolução nas compras de cargas perigosas, para acompanhar tendências de crescimento e apoiar tomadas de decisão                                                                                                                                                                                      | 8          | 1      |
+| 3    | Alta       | Como analista de dados, quero identificar os maiores centros de emissão e os principais centros de entrega desses materiais, para entender os fluxos logísticos e otimizar a distribuição                                            | 5          | 2      |
+| 4    | Média      | Como analista de dados, quero identificar quais são os tipos de modais mais solicitados para a entrega de cargas perigosas, a fim de analisar a eficiência e preferência logística                                                                                                                                                                                                       | ...        | ...    |
+| 5    | Baixa      | Como analista de dados, quero identificar quais são as empresas que mais vendem e armazenam cargas perigosas, para mapear os principais players do mercado     | 2          | 3      |
 
+| 6    | Baixa      | Como analista de dados, quero identificar quais são os planos de ação e sustentabilidade das empresas e órgãos governamentais relacionados às cargas perigosas, para avaliar práticas ambientais e propor melhorias     | 2          | 3      |
 
 
 
