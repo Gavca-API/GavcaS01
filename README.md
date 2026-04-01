@@ -57,7 +57,6 @@ Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas
 | 3    | Alta       | Como analista de dados, quero identificar os maiores centros de emissão e os principais centros de entrega desses materiais, para entender os fluxos logísticos e otimizar a distribuição                                            | 5          | 2      |
 | 4    | Média      | Como analista de dados, quero identificar quais são os tipos de modais mais solicitados para a entrega de cargas perigosas, a fim de analisar a eficiência e preferência logística                                                                                                                                                                                                       | ...        | ...    |
 | 5    | Baixa      | Como analista de dados, quero identificar quais são as empresas que mais vendem e armazenam cargas perigosas, para mapear os principais players do mercado     | 2          | 3      |
-
 | 6    | Baixa      | Como analista de dados, quero identificar quais são os planos de ação e sustentabilidade das empresas e órgãos governamentais relacionados às cargas perigosas, para avaliar práticas ambientais e propor melhorias     | 2          | 3      |
 
 
