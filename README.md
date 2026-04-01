@@ -28,12 +28,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas relacionadas ao transporte de cargas perigosas e especiais, visando:
+
+* Identificar e classificar os diferentes tipos de cargas perigosas;
+* Compreender a legislação e normas de segurança aplicáveis;
+* Analisar os riscos envolvidos no transporte e armazenamento;
+* Propor boas práticas para manuseio e logística segura;
+* Desenvolver conhecimento técnico na área de logística.
 
 
 ## Tecnologias Utilizadas
