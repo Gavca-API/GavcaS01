@@ -1,4 +1,6 @@
 # Gavca-API 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4525b227-d7aa-450a-aef2-840e2e011d12" />
+
 
 * Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
