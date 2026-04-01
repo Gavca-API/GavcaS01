@@ -44,6 +44,7 @@ Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas
 * Microsoft Excel
 * Python (Colab)
 * Power Point
+* GitHub
 
 
 
