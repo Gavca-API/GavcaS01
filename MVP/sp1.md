@@ -1,10 +1,10 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - GAVCA - SPRINT 1
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Desenvolver uma interface de geointeligência aplicada ao transporte de cargas sensíveis, mapeando a evolução das movimentações e a capilaridade das principais empresas do setor;
+- Sistematizar a ingestão de dados abertos do IBAMA, realizando a limpeza, normalização de unidades e tratamento de inconsistências para garantir uma base de dados íntegra e pronta para análise;
+- Viabilizar uma solução de BI funcional baseada em dados reais, convertendo registros brutos em insights estratégicos e acionáveis, focada na clareza visual e na integridade das informações para suporte à tomada de decisão.
 
 ---
 
