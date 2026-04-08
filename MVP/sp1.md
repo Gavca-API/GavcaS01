@@ -1,7 +1,6 @@
 # 📌 MVP - [GAVCA - API]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+## 🎯 Objetivo do MVP 
 - Projetar e implementar um dashboard interativo focado no monitoramento de cargas especiais e perigosas. A solução consolida indicadores sobre os principais players do mercado e mapeia fluxos logísticos (origem/destino), permitindo o acompanhamento da evolução temporal das operações. 
 -  Realizar o tratamento e a padronização dos registros governamentais originários do IBAMA. O objetivo é converter dados brutos em uma estrutura de análise funcional. 
 - Prover uma base de análise funcional, fundamentada em dados reais e selecionados criteriosamente. O objetivo é garantir que a visualização seja objetiva e livre de ruídos, permitindo uma interpretação clara e direta dos indicadores apresentados
@@ -9,7 +8,6 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Um painel interativo que conecta as origens aos destinos, permitindo visualizar a densidade do transporte de cargas especiais no território nacional.  
 - Implementação de camadas de verificação que asseguram a consistência dos dados antes da fase de análise. 
 - Tratamento de Dados: Conversão da base bruta do IBAMA em informações funcionais.
