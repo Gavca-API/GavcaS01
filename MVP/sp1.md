@@ -35,8 +35,11 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 1   | Alta       | Como analista de dados, quero identificar as regiões com maior procura do uso das cargas perigosas, para compreender onde há maior demanda e apoiar decisões logísticas mais eficientes                   | 5         | 1   |                                                                                     
+| 2   | Alta       | Como analista de dados, quero identificar quais são as regiões que apontam uma evolução de compras das cargas perigosas, para analisar tendências de crescimento e apoiar a tomada de decisão                                   | 5          | 1      |
+| 3   | Alta       | Como analista de dados, quero tratar e organizar os dados utilizando o Google Colab, para garantir que as informações estejam limpas, padronizadas e prontas para análise                                                                                                                                                        | 7        | 1      |
+| 4  | Alta       | Como analista de dados, quero construir um dashboard no Power BI, para visualizar os dados de forma clara e apoiar a tomada de decisão.                                                                                                                                                        | 5          | 1      |
+| 5   | Baixa       | Como analista de dados, quero montar uma apresentação em PowerPoint, para comunicar os resultados do projeto de forma clara e objetiva ao cliente                                                                                                                                                       | 2         | 1      |
 
 ---
 
