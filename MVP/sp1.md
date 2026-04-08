@@ -23,7 +23,7 @@ Fiscal do IPEM: Gerencia esforços de fiscalização e poderá mapear áreas e p
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US1 | Como analista de dados, quero identificar as regiões com maior procura do uso das cargas perigosas, para compreender onde há maior demanda e apoiar decisões logísticas mais eficientes        | Alta       | 5 pontos   |
 | US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
