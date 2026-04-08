@@ -11,7 +11,7 @@
 - Um painel interativo que conecta as origens aos destinos, permitindo visualizar a densidade do transporte de cargas especiais no território nacional.  
 - Implementação de camadas de verificação que asseguram a consistência dos dados antes da fase de análise. 
 - Tratamento de Dados: Conversão da base bruta do IBAMA em informações funcionais.
-- Filtros Essenciais: Seleção por tipo de carga e players para validar a eficiência da ferramenta.  
+- Filtros Essenciais: Seleção por tipo de carga e players para validar a eficiência da ferramenta. .. 
 
 ---
 
