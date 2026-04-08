@@ -16,8 +16,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-Analista do IPEM: Analisa e administra uma carga alta de dados e terá estes dados centralizados numa interface sólida e interativa.  
-Fiscal do IPEM: Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção.  
+- Marcus Nascimento – Coordenador do curso e cliente do projeto
+- IPEM – Instituição parceira/órgão relacionado ao projeto
+- Prof. Jean Costa – Professor orientador
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
