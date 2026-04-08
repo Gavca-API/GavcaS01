@@ -1,4 +1,4 @@
-# 📌 MVP - [GAVCA - API]
+# 📌 MVP - GAVCA - API
 
 ## 🎯 Objetivo do MVP 
 - Projetar e implementar um dashboard interativo focado no monitoramento de cargas especiais e perigosas. A solução consolida indicadores sobre os principais players do mercado e mapeia fluxos logísticos (origem/destino), permitindo o acompanhamento da evolução temporal das operações. 
