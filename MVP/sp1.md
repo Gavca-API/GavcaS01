@@ -1,25 +1,25 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [GAVCA - API]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Projetar e implementar um dashboard interativo focado no monitoramento de cargas especiais e perigosas. A solução consolida indicadores sobre os principais players do mercado e mapeia fluxos logísticos (origem/destino), permitindo o acompanhamento da evolução temporal das operações. 
+-  Realizar o tratamento e a padronização dos registros governamentais originários do IBAMA. O objetivo é converter dados brutos em uma estrutura de análise funcional. 
+- Prover uma base de análise funcional, fundamentada em dados reais e selecionados criteriosamente. O objetivo é garantir que a visualização seja objetiva e livre de ruídos, permitindo uma interpretação clara e direta dos indicadores apresentados
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Um painel interativo que conecta as origens aos destinos, permitindo visualizar a densidade do transporte de cargas especiais no território nacional.  
+- Implementação de camadas de verificação que asseguram a consistência dos dados antes da fase de análise. 
+- Tratamento de Dados: Conversão da base bruta do IBAMA em informações funcionais.
+- Filtros Essenciais: Seleção por tipo de carga e players para validar a eficiência da ferramenta.  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona 1:** Analista do IPEM: Analisa e administra uma carga alta de dados e terá estes dados centralizados numa interface sólida e interativa.  
+- **Persona 2:** Fiscal do IPEM: Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção.  
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
@@ -39,8 +39,8 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
+- MVP deve permitir que o usuário acompanhe indicadores de forma clara e dinâmica
+- Painel com indicadores amplos sobre o status das cargas perigosas para suporte à gestão e controle operacional.  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
