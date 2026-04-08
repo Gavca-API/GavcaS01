@@ -16,8 +16,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Analista do IPEM: Analisa e administra uma carga alta de dados e terá estes dados centralizados numa interface sólida e interativa.  
-- **Persona 2:** Fiscal do IPEM: Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção.  
+Analista do IPEM: Analisa e administra uma carga alta de dados e terá estes dados centralizados numa interface sólida e interativa.  
+Fiscal do IPEM: Gerencia esforços de fiscalização e poderá mapear áreas e produtos de maior atenção.  
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
