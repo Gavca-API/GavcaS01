@@ -24,7 +24,7 @@
 ## 📑 Resumo da Sprint
 - Nesta primeira sprint, o nosso grupo focou em mapear o cenário real do transporte de produtos perigosos no Brasil. Conseguimos identificar que o setor está em expansão contínua, puxado principalmente pelos segmentos de combustíveis, químicos e gases industriais.
 
-Cruzando os dados, vimos que o Sudeste ainda concentra a maior parte das operações, mas notamos um crescimento forte no Nordeste por causa do agronegócio e energia. Além disso, identificamos o Norte como uma nova fronteira logística que exige mais atenção com a segurança. Esse diagnóstico foi essencial para o grupo, pois agora temos a base estratégica para focar no desenvolvimento das ferramentas de análise de risco e suporte à decisão.
+- Cruzando os dados, vimos que o Sudeste ainda concentra a maior parte das operações, mas notamos um crescimento forte no Nordeste por causa do agronegócio e energia. Além disso, identificamos o Norte como uma nova fronteira logística que exige mais atenção com a segurança. Esse diagnóstico foi essencial para o grupo, pois agora temos a base estratégica para focar no desenvolvimento das ferramentas de análise de risco e suporte à decisão.
 
 
 ## 🔑 User Stories (Backlog do MVP)
