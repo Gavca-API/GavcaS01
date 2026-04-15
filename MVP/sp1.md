@@ -22,9 +22,15 @@
 ---
 
 ## 📑 Resumo da Sprint
-- Nesta primeira sprint, o nosso grupo focou em mapear o cenário real do transporte de produtos perigosos no Brasil. Conseguimos identificar que o setor está em expansão contínua, puxado principalmente pelos segmentos de combustíveis, químicos e gases industriais.
+- O objetivo da nossa primeira sprint foi entender o mercado de cargas perigosas no país. Chegamos a algumas conclusões importantes que vão guiar o desenvolvimento do nosso dashboard e da API:
 
-- Cruzando os dados, vimos que o Sudeste ainda concentra a maior parte das operações, mas notamos um crescimento forte no Nordeste por causa do agronegócio e energia. Além disso, identificamos o Norte como uma nova fronteira logística que exige mais atenção com a segurança. Esse diagnóstico foi essencial para o grupo, pois agora temos a base estratégica para focar no desenvolvimento das ferramentas de análise de risco e suporte à decisão.
+- Segmentos Fortes: Identificamos que combustíveis e químicos dominam a demanda.
+
+- Dinâmica Regional: O Sudeste lidera o volume, mas o grupo observou o Nordeste e o Norte como regiões de expansão acelerada.
+
+- Segurança: Vimos que o aumento de rotas no Norte traz um desafio maior em relação aos índices de ocorrências.
+
+- Com esse entendimento, estamos prontos para avançar na parte tecnológica do projeto, focando em como os dados podem ajudar na tomada de decisão.
 
 
 ## 🔑 User Stories (Backlog do MVP)
