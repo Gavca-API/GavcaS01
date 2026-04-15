@@ -69,9 +69,9 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Aprofundar o tratamento dos dados 
+- Dados mais conclusivos 
+- Melhorar formatação do dashboard 
 
 ---
 
