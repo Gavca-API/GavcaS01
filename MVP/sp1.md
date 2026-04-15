@@ -55,15 +55,15 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- MVP deve permitir que o usuário acompanhe indicadores de forma clara e dinâmica
+- O sistema deve registrar os dados vitais das rotas logísticas, permitindo o rastreio do volume transportado, a natureza da carga e os principais fluxos geográficos (Origem-Destino)
 - Painel com indicadores amplos sobre o status das cargas perigosas para suporte à gestão e controle operacional.  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
+- Número de usuários que testaram o MVP: 5 usuários 
+- O painel já está funcional e reflete os dados das rotas com precisão. O foco agora será a parte estratégica: criar medidas DAX mais complexas para gerar indicadores que ajudem na tomada de decisão rápida. Também redesenhar a parte dos filtros para um modelo minimalista, focando em melhorar o cruzamento de dados de cargas especiais e perigosas (severidade e conformidade). 
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
