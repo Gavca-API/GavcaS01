@@ -49,11 +49,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 1   | Alta       | Como analista de dados, quero identificar as regiões com maior procura do uso das cargas perigosas, para compreender onde há maior demanda e apoiar decisões logísticas mais eficientes                   | 5         | 1   |                                                                                     
-| 1   | Alta       | Como analista de dados, quero identificar quais são as regiões que apontam uma evolução de compras das cargas perigosas, para analisar tendências de crescimento e apoiar a tomada de decisão                                   | 5          | 1      |
-| 1  | Alta       | Como analista de dados, quero tratar e organizar os dados utilizando o Google Colab, para garantir que as informações estejam limpas, padronizadas e prontas para análise                                                                                                                                                        | 7        | 1      |
-| 1  | Alta       | Como analista de dados, quero construir um dashboard no Power BI, para visualizar os dados de forma clara e apoiar a tomada de decisão.                                                                                                                                                        | 5          | 1      |
-| 1   | Baixa       | Como analista de dados, quero montar uma apresentação em PowerPoint, para comunicar os resultados do projeto de forma clara e objetiva ao cliente                                                                                                                                                       | 2         | 1      |
+| 01     | Definir os dados a serem tratados                        | Concluído|
+| 01     | Power Bi                           | Concluído |
+| 01     | Python                            | Concluído |
+| 01     | Edição visual do dashboard                          | Em andamento |
 
 ---
 
