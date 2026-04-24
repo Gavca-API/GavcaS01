@@ -82,4 +82,4 @@
  <img width="923" height="504" alt="image" src="https://github.com/user-attachments/assets/6956a504-270c-4579-9567-2e9db2ffeaba" />
  <img width="813" height="488" alt="image" src="https://github.com/user-attachments/assets/5640f93f-0c82-4453-aebf-9dff204b1111" />
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+  Link Vídeo https://youtube.com/shorts/21DlKkIv22w
