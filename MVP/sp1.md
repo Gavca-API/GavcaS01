@@ -59,14 +59,14 @@
 ## 📊 Critérios de Aceitação
 - O sistema deve registrar os dados vitais das rotas logísticas, permitindo o rastreio do volume transportado, a natureza da carga e os principais fluxos geográficos (Origem-Destino)
 - Painel com indicadores amplos sobre o status das cargas perigosas para suporte à gestão e controle operacional.  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Visual intuitivo, agilidade no processamento, integração fluida de dados e precisão dos conteúdos.
 
 ---
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP: 5 usuários 
 - O painel já está funcional e reflete os dados das rotas com precisão. O foco agora será a parte estratégica: criar medidas DAX mais complexas para gerar indicadores que ajudem na tomada de decisão rápida. Também redesenhar a parte dos filtros para um modelo minimalista, focando em melhorar o cruzamento de dados de cargas especiais e perigosas (severidade e conformidade). 
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Indicadores de negócio (em aguardo)  
 
 ---
 
@@ -80,6 +80,5 @@
 ## 📂 Anexos / Evidências
  <img width="822" height="479" alt="image" src="https://github.com/user-attachments/assets/28e37494-1eb5-4518-9a2d-b85bd054f4fe" />
  <img width="923" height="504" alt="image" src="https://github.com/user-attachments/assets/6956a504-270c-4579-9567-2e9db2ffeaba" />
- <img width="813" height="488" alt="image" src="https://github.com/user-attachments/assets/5640f93f-0c82-4453-aebf-9dff204b1111" />
-- Fluxos ou protótipos  
+ <img width="813" height="488" alt="image" src="https://github.com/user-attachments/assets/5640f93f-0c82-4453-aebf-9dff204b1111" /> 
   Link Vídeo https://youtube.com/shorts/21DlKkIv22w
