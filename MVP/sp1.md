@@ -49,10 +49,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Definir os dados a serem tratados                        | Concluído|
-| 01     | Power Bi                           | Concluído |
-| 01     | Python                            | Concluído |
-| 01     | Edição visual do dashboard                          | Em andamento |
+| 01     | Coleta e unificação dos dados do IBAMA/ANTT                        | Concluído|
+| 01     | Limpeza e tratamento dos dados em Python                           | Concluído |
+| 01     | Estruturação da base de dados                            | Concluído |
+| 01     | Desenvolvimento do dashboard inicial (visão geral)                          | Concluído |
 
 ---
 
