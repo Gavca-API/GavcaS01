@@ -33,7 +33,7 @@
 - Com esse entendimento, estamos prontos para avançar na parte tecnológica do projeto, focando em como os dados podem ajudar na tomada de decisão.
 
 
-## 🔑 User Stories (Backlog do MVP)
+# 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | 1    | 1      | Como analista de dados, quero identificar as regiões com maior procura do uso das cargas perigosas, para compreender onde há maior demanda e apoiar decisões logísticas mais eficientes                   | 5         | 1      |                                                                                     
@@ -95,3 +95,4 @@
 
  
   Link Vídeo [https:https://youtu.be/WwxF4SNAfj0?si=pfjUMqAe4GGOhPvW](https://youtu.be/WwxF4SNAfj0?si=pfjUMqAe4GGOhPvW)
+ 
