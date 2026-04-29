@@ -80,7 +80,7 @@ Este projeto tem como objetivo auxiliar na compreensão e aplicação das normas
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Vídeo de entendimento do projeto                | 01/04/2026 | concluído  | [Vídeo](https://youtube.com/shorts/21DlKkIv22w)  |
-| 01                | 29/04/2026 | em desenvolvimento  | [MVP](MVP/sp1.md)  |
+| 01                | 29/04/2026 | concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
