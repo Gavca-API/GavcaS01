@@ -10,10 +10,9 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
+- Disponibilizar um painel interativo construído em Power BI, alimentado por dados públicos do IBAMA referentes ao fluxo de produtos perigosos e rejeitos sólidos. A plataforma engloba diagnósticos sobre as mercadorias mais transportadas, matrizes de transporte, matriz de Origem e Destino (OD), polos urbanos com maior fluxo, segmentação regional e KPIs logísticos estratégicos. Para sustentar a solução, as fontes brutas são submetidas a etapas de higienização, padronização, modelagem e consolidação utilizando Python, resultando em um repositório analítico estruturado e otimizado para o cruzamento de informações no dashboard.
+- Na versão atual, o sistema depende da qualidade e do preenchimento das bases públicas do IBAMA, o que pode afetar a precisão de algumas análises específicas. Algumas filtragens avançadas e cruzamentos mais complexos também estão sendo desenvolvidos, o que limita um pouco o nível de detalhe nesta primeira entrega do MVP. 
+- O escopo atual do MVP é entregar uma solução que funcione de verdade para analisar a logística de cargas perigosas. Agora, na segunda sprint, estamos focados em rodar a base de dados unificada, mapear os principais padrões de transporte e montar um painel interativo que mostre os indicadores de forma simples e visual.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -40,9 +39,10 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que a gente visualize com clareza os modais mais utilizados e os tipos de veículos que realizam o transporte das cargas.
+- O sistema deve trazer análises focadas nos eixos rodoviários e nos municípios envolvidos no fluxo do transporte.
+- O usuário deve conseguir combinar e cruzar informações logísticas com facilidade, usando filtros práticos para encontrar o que precisa.
+- O painel deve garantir uma navegação limpa e organizada, além de ser totalmente responsivo para o usuário.  
 
 ---
 
