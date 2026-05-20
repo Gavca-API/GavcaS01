@@ -3,7 +3,9 @@
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Este MVP tem como propósito refinar o diagnóstico logístico sobre a movimentação de produtos perigosos, mapeando os modais utilizados, tipos de transporte, principais malhas rodoviárias e os municípios estratégicos nesse fluxo. O dashboard centraliza esses dados em um layout visual intuitivo, dinâmico e de rápida compreensão, transformando dados brutos em inteligência logística de fácil interpretação.
-- A expansão dos indicadores logísticos no painel permitirá um entendimento mais aprofundado dos rotas utilizadas, dos padrões de movimentação e da geolocalização das cargas perigosas no território nacional. 
+  
+- A expansão dos indicadores logísticos no painel permitirá um entendimento mais aprofundado dos rotas utilizadas, dos padrões de movimentação e da geolocalização das cargas perigosas no território nacional.
+  
 - O projeto agrega novas métricas de desempenho e filtros avançados que mapeiam a relevância de modais, veículos, eixos rodoviários e municípios na movimentação de materiais perigosos. Essa estrutura garante uma camada de inteligência de dados aprofundada, capacitando o usuário a rastrear gargalos logísticos, áreas críticas e tendências operacionais de forma totalmente centralizada e intuitiva.
 
 ---
@@ -11,7 +13,9 @@
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Disponibilizar um painel interativo construído em Power BI, alimentado por dados públicos do IBAMA referentes ao fluxo de produtos perigosos e rejeitos sólidos. A plataforma engloba diagnósticos sobre as mercadorias mais transportadas, matrizes de transporte, matriz de Origem e Destino (OD), polos urbanos com maior fluxo, segmentação regional e KPIs logísticos estratégicos. Para sustentar a solução, as fontes brutas são submetidas a etapas de higienização, padronização, modelagem e consolidação utilizando Python, resultando em um repositório analítico estruturado e otimizado para o cruzamento de informações no dashboard.
-- Na versão atual, o sistema depende da qualidade e do preenchimento das bases públicas do IBAMA, o que pode afetar a precisão de algumas análises específicas. Algumas filtragens avançadas e cruzamentos mais complexos também estão sendo desenvolvidos, o que limita um pouco o nível de detalhe nesta primeira entrega do MVP. 
+  
+- Na versão atual, o sistema depende da qualidade e do preenchimento das bases públicas do IBAMA, o que pode afetar a precisão de algumas análises específicas. Algumas filtragens avançadas e cruzamentos mais complexos também estão sendo desenvolvidos, o que limita um pouco o nível de detalhe nesta primeira entrega do MVP.
+  
 - O escopo atual do MVP é entregar uma solução que funcione de verdade para analisar a logística de cargas perigosas. Agora, na segunda sprint, estamos focados em rodar a base de dados unificada, mapear os principais padrões de transporte e montar um painel interativo que mostre os indicadores de forma simples e visual.
 ---
 
