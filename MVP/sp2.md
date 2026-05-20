@@ -59,9 +59,11 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Análises regionais mais detalhadas.
+- Novas métricas de segurança no transporte.
+- Implementação de filtros mais robustos.
+- Melhorias no layout do dashboard.
+- Integração de novas fontes de dados.  
 
 ---
 
