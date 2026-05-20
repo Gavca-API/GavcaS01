@@ -1,10 +1,10 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [GAVCA API]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Este MVP tem como propósito refinar o diagnóstico logístico sobre a movimentação de produtos perigosos, mapeando os modais utilizados, tipos de transporte, principais malhas rodoviárias e os municípios estratégicos nesse fluxo. O dashboard centraliza esses dados em um layout visual intuitivo, dinâmico e de rápida compreensão, transformando dados brutos em inteligência logística de fácil interpretação.
+- A expansão dos indicadores logísticos no painel permitirá um entendimento mais aprofundado dos rotas utilizadas, dos padrões de movimentação e da geolocalização das cargas perigosas no território nacional. 
+- O projeto agrega novas métricas de desempenho e filtros avançados que mapeiam a relevância de modais, veículos, eixos rodoviários e municípios na movimentação de materiais perigosos. Essa estrutura garante uma camada de inteligência de dados aprofundada, capacitando o usuário a rastrear gargalos logísticos, áreas críticas e tendências operacionais de forma totalmente centralizada e intuitiva.
 
 ---
 
