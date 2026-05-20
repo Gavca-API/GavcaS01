@@ -51,9 +51,10 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 3 usuários 
+- Feedback qualitativo : em andamenro 
+- Agilidade para identificar padrões e comportamentos logísticos.
+- Automatização da análise de rotas e modais, reduzindo o esforço manual do usuário.
 
 ---
 
