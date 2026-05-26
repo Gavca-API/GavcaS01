@@ -30,6 +30,7 @@
 O foco dessa sprint foi refinar o diagnóstico da etapa anterior, aprofundando o estudo sobre os riscos no transporte de produtos perigosos e mapeando tecnologias para mitigar acidentes e melhorar a eficiência.
 
 🔍 O que foi analisado:
+
 Gargalos operacionais e acidentes: Levantamento de falhas em rodovias, problemas operacionais e condições das rotas.
 
 Impacto ambiental: Consequências causadas por vazamentos ou transporte fora das normas.
@@ -37,6 +38,7 @@ Impacto ambiental: Consequências causadas por vazamentos ou transporte fora das
 Falta de visibilidade: Identificação da necessidade de um controle mais rígido de monitoramento devido ao crescimento do setor.
 
 🛠️ Soluções e Tecnologias Mapeadas:
+
 Sistemas de rastreamento e telemetria em tempo real.
 
 Sensores de segurança veicular e monitoramento de temperatura da carga.
@@ -44,6 +46,7 @@ Sensores de segurança veicular e monitoramento de temperatura da carga.
 Treinamento especializado para motoristas e cumprimento rigoroso das normas regulamentadoras.
 
 📈 Conclusões
+
 Ficou claro que alinhar tecnologia com planejamento estratégico é o caminho mais viável para reduzir sinistros e otimizar a operação.
 
 
