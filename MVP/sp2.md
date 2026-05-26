@@ -49,7 +49,6 @@ Treinamento especializado para motoristas e cumprimento rigoroso das normas regu
 
 Ficou claro que alinhar tecnologia com planejamento estratégico é o caminho mais viável para reduzir sinistros e otimizar a operação.
 
-## 📋💻 TRELLO
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
@@ -98,6 +97,12 @@ Ficou claro que alinhar tecnologia com planejamento estratégico é o caminho ma
 - Integração de novas fontes de dados.  
 
 ---
+## 📋💻 TRELLO
+
+<img width="364" height="623" alt="image" src="https://github.com/user-attachments/assets/67bcf2eb-4cba-490d-8187-deeb806d3f8a" />
+
+<img width="378" height="344" alt="image" src="https://github.com/user-attachments/assets/c6687e9d-3407-4403-a096-950525e79b47" />
+
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
