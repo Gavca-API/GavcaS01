@@ -38,10 +38,14 @@
 ---
 
 ## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| Sprint | Entregas Principais | Status |
+|--------|--------------------|--------|
+| 02 | Módulo de análise e comparação de eficiência entre diferentes modais de transporte em rotas e fluxos coincidentes | Em andamento |
+| 02 | Mapeamento, classificação e análise estatística da matriz de modais de transporte utilizados nos fluxos logísticos | Em andamento |
+| 02 | Análise das principais rodovias utilizadas | Em andamento |
+| 02 | Identificação das cidades responsáveis pelo transporte de cargas | Em andamento |
+| 02 | Expansão dos filtros e refinamento das análises | Em andamento |
+
 
 ---
 
