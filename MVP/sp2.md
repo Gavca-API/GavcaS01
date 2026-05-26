@@ -29,8 +29,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 6  | Alta       | Como analista de dados, quero identificar os maiores centros de emissão e os principais centros de entrega desses materiais, para compreender o fluxo logístico e otimizar a distribuição                   | 5          | 2     |                                                                                     
+| 7  | Alta       | Como analista de dados, desejo identificar quais são os tipos de modais mais solicitados para a entrega de cargas perigosas dos clientes, a fim de analisar a eficiência dos transportes e apoiar melhorias logísticas                                   | 5          | 2      |
+| 8   | Alta       | Como analista de dados, quero tratar e organizar os dados utilizando o Google Colab, para garantir que as informações estejam limpas, padronizadas e prontas para análise                                                                                                                                                        | 7          | 2     |
+| 9  | Alta       | Como analista de dados, quero construir um dashboard no Power BI, para visualizar os dados de forma clara e apoiar a tomada de decisão.                                                                                                                                                        | 5          | 2     |
+| 10  | Baixa       | Como analista de dados, quero montar uma apresentação em PowerPoint, para comunicar os resultados do projeto de forma clara e objetiva ao cliente                                                                                                                                                       | 2          | 2     |
 
 ---
 
