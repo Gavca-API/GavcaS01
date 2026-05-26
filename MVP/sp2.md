@@ -40,11 +40,11 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais | Status |
 |--------|--------------------|--------|
-| 02 | Módulo de análise e comparação de eficiência entre diferentes modais de transporte em rotas e fluxos coincidentes | CONCLUÍDO |
-| 02 | Mapeamento, classificação e análise estatística da matriz de modais de transporte utilizados nos fluxos logísticos | CONCLUÍDO |
-| 02 | Análise das principais rodovias utilizadas | CONCLUÍDO |
-| 02 | Identificação das cidades responsáveis pelo transporte de cargas | CONCLUÍDO |
-| 02 | Expansão dos filtros e refinamento das análises | CONCLUÍDO |
+| 02 | Módulo de análise e comparação de eficiência entre diferentes modais de transporte em rotas e fluxos coincidentes | Concluído |
+| 02 | Mapeamento, classificação e análise estatística da matriz de modais de transporte utilizados nos fluxos logísticos | Concluído |
+| 02 | Análise das principais rodovias utilizadas | Concluído |
+| 02 | Identificação das cidades responsáveis pelo transporte de cargas | Concluído |
+| 02 | Expansão dos filtros e refinamento das análises | Concluído |
 
 
 ---
