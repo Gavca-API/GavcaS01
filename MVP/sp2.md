@@ -25,6 +25,9 @@
 - Prof. Jean Costa – Professor orientador  
 
 ---
+## 📑 Resumo da Sprint
+
+
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
