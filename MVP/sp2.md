@@ -49,7 +49,7 @@ Treinamento especializado para motoristas e cumprimento rigoroso das normas regu
 
 Ficou claro que alinhar tecnologia com planejamento estratégico é o caminho mais viável para reduzir sinistros e otimizar a operação.
 
-
+## 📋💻 TRELLO
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
