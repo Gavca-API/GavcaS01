@@ -105,6 +105,6 @@ Ficou claro que alinhar tecnologia com planejamento estratégico é o caminho ma
 
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="838" height="505" alt="WhatsApp Image 2026-05-27 at 18 50 57" src="https://github.com/user-attachments/assets/1ba20770-f272-431e-a01f-f4d23dfe2d91" />
+<img width="832" height="504" alt="WhatsApp Image 2026-05-27 at 18 50 57 (1)" src="https://github.com/user-attachments/assets/020d20dc-659f-4752-ba32-718ed6595e34" />
+
