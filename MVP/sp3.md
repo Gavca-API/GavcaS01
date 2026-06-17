@@ -2,9 +2,10 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- 🎯 Objetivo do MVP
+- Hoje não há visibilidade clara sobre quais empresas mais vendem e armazenam cargas perigosas, nem sobre quais tipos de armazenamento são mais utilizados, dificultando o mapeamento do mercado e a garantia de segurança operacional.  
+- A disponibilização de indicadores por empresa e tipo de armazenamento permitirá identificar os principais players do setor e os métodos de armazenamento predominantes para cargas perigosas e especiais. 
+- O usuário terá acesso a uma análise clara dos principais participantes do mercado e dos tipos de armazenamento mais utilizados, apoiando decisões estratégicas e a segurança operacional. 
 
 ---
 
