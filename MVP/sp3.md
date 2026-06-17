@@ -10,10 +10,10 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> O sistema ampliará suas análises com foco em indicadores operacionais e históricos, permitindo acompanhar a evolução do transporte de cargas perigosas ao longo dos anos, identificar as empresas com maior volume de movimentação, avaliar sua representatividade no setor e monitorar tendências e padrões de desempenho logístico.  
+- Algumas análises estarão condicionadas à disponibilidade, consistência e qualidade das informações disponibilizadas nas bases públicas do IBAMA. Dessa forma, a avaliação do desempenho e dos níveis de segurança das empresas será realizada com base nos dados acessíveis e nos parâmetros definidos pelo projeto, podendo não contemplar integralmente todos os aspectos operacionais e gerenciais relacionados às suas atividades. 
+- Nesta sprint, o foco será a implementação de análises empresariais, temporais e regionais. As novas funcionalidades permitirão identificar as empresas com maior movimentação de cargas perigosas, analisar sua participação no mercado e avaliar os tipos de armazenagem mais utilizados, contribuindo para uma visão estratégica do setor e para o acompanhamento de aspectos relacionados à segurança operacional.
+  
 
 ---
 
