@@ -56,20 +56,20 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 3 usuários
+- Feedback qualitativo : em andamenro  
+- Os visores devem estar com as informações conectadas  
+- Apoio à tomada de decisão estratégica.  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Elaborar uma apresentação para o cliente
+- Aprimoramento visual do dashboard.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- <img width="1170" height="695" alt="WhatsApp Image 2026-06-17 at 09 25 31" src="https://github.com/user-attachments/assets/98c12212-5195-4754-a3f5-fc9a78caf2a3" />
+- <img width="1170" height="702" alt="WhatsApp Image 2026-06-17 at 09 24 10" src="https://github.com/user-attachments/assets/e2ec0d58-f82e-4e61-a88b-625cbda40d17" />
+
