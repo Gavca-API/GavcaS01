@@ -17,8 +17,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- Marcus Nascimento – Coordenador do curso e cliente do projeto
+- IPEM – Instituição parceira/órgão relacionado ao projeto
+- Prof. Jean Costa – Professor orientador
 
 ---
 
