@@ -48,9 +48,10 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve conter dados consistentes;  
+- Os painéis deverão apresentar gráficos e indicadores alinhados às necessidades de análise dos usuários.  
+- O sistema deve identificar as principais empresas movimentadoras de cargas perigosas.
+- O sistema deve manter uma navegação intuitiva, desempenho adequado e informações confiáveis.
 
 ---
 
