@@ -28,6 +28,19 @@
 
 ---
 
+🚛  Resumo Terceira Sprint
+
+📊 Análises realizadas:
+
+- Mapeamento das empresas com maior participação no mercado.
+- Identificação dos principais modelos de armazenagem de cargas perigosas.
+
+🔍 Principais conclusões:
+
+- A armazenagem adequada reduz riscos operacionais e ambientais.
+- Empresas de maior porte tendem a investir mais em infraestrutura e segurança.
+- As análises fornecem uma visão estratégica dos principais agentes e práticas do setor.
+
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
