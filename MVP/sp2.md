@@ -1,4 +1,4 @@
-# 📌 MVP - [GAVCA API]
+# 📌 MVP - GAVCA API
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
