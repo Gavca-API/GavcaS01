@@ -32,15 +32,15 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | 11 |  Como analista de dados, quero identificar quais são as empresas que mais vendem e armazenam cargas perigosas, para mapear os principais participantes do mercado e analisar sua atuação no setor         | Alta       | 5 pontos   |
-| 12 |Como analista logística, quero identificar os tipos de armazenagem mais utilizados para cargas perigosas e especiais, para garantir a segurança operacional.         | Média      | 3 pontos   |
+| 12 |Como analista logística, quero identificar os tipos de armazenagem mais utilizados para cargas perigosas e especiais, para garantir a segurança operacional.         | Alta      | 3 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Identificação das principais empresas movimentadoras                       | Concluído|
+| 02     | [Funcionalidade Z]                           | Concluído |
 
 ---
 
