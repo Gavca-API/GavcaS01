@@ -39,8 +39,11 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Identificação das principais empresas movimentadoras                       | Concluído|
-| 02     | [Funcionalidade Z]                           | Concluído |
+| 03     | Identificação das principais empresas movimentadoras                       | Concluído|
+| 03     | Transformar as unidades de medida: miligrama, grama e quilograma; para toneladas                           | Concluído |
+| 03     | Excluir da base de dados os produtos quantificados em escalas de medida inconversíveis                           | Concluído |
+| 03     |	Desenvolvimento de indicadores empresariais                           | Concluído |
+
 
 ---
 
