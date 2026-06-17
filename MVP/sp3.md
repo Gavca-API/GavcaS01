@@ -12,7 +12,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> O sistema ampliará suas análises com foco em indicadores operacionais e históricos, permitindo acompanhar a evolução do transporte de cargas perigosas ao longo dos anos, identificar as empresas com maior volume de movimentação, avaliar sua representatividade no setor e monitorar tendências e padrões de desempenho logístico.
+- O sistema ampliará suas análises com foco em indicadores operacionais e históricos, permitindo acompanhar a evolução do transporte de cargas perigosas ao longo dos anos, identificar as empresas com maior volume de movimentação, avaliar sua representatividade no setor e monitorar tendências e padrões de desempenho logístico.
  
 - Algumas análises estarão condicionadas à disponibilidade, consistência e qualidade das informações disponibilizadas nas bases públicas do IBAMA. Dessa forma, a avaliação do desempenho e dos níveis de segurança das empresas será realizada com base nos dados acessíveis e nos parâmetros definidos pelo projeto, podendo não contemplar integralmente todos os aspectos operacionais e gerenciais relacionados às suas atividades.
   
